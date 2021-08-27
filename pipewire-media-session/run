@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 
 # Wait for the PipeWire daemon to start.
 sv check "$HOME/.runit/sv/pipewire" >/dev/null || exit 1
