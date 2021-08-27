@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+exec blueman-applet 2>&1
