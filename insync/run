@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+insync start
+exec chpst -b insync pause
