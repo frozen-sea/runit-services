@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-exec udiskie -a -n -s --appindicator 2>&1
+exec udiskie -a -n -t --appindicator 2>&1
